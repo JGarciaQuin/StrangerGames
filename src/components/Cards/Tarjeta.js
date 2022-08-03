@@ -1,6 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import '../Cards/Tarjeta.css';
+import './Tarjeta.css';
 
 
 function Tarjeta({title,text,src}) {
