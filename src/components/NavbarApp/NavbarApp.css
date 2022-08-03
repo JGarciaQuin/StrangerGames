@@ -1,0 +1,27 @@
+.NavbarColor{
+    background: #1a1c20;
+    border-bottom: 8px solid #1D242B;
+}
+
+.logo{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    font-weight: 2rem;
+    color: white;
+    margin: 0.3em;
+}
+
+
+
+.textnavb{
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.textnavb:hover {
+    transition: background .8s;
+    background: #FE2E2E;
+    border-radius: 12px;
+}

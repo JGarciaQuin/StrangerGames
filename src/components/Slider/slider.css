@@ -1,0 +1,10 @@
+.titul, .parraf{
+    color: white;
+    font-weight: 800;
+}
+
+.imgslider{
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 0px 5px 10px blue;
+}
